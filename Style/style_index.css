@@ -5,6 +5,14 @@
     font-family: Avenir, sans-serif;
 }
 
+body{
+    background-image: url(fond.jpg) ;
+}
+
+h1{
+    background-color: white;
+}
+
 nav{
     width: 100%;
     margin: 0 auto;
@@ -39,8 +47,8 @@ nav a{
 }
 
 nav a:hover{
-    color: red;
-    border-bottom: 2px solid red;
+    color: rgb(100, 8, 143);
+    border-bottom: 2px solid rgb(100, 8, 143);
 }
 
 .sous{
