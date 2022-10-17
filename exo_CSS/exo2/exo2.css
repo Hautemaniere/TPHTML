@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body,html{
+    font-family: Arial;
+    
+}
+div{
+    text-align: center;
+    font-size: 30px;
+}
+.divHaut{
+    width: 100%;
+    background-color: aqua;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.divMid{
+    float: right;
+    background-color: yellow;
+    width: 100%;
+}
+
+.divBas{
+    width: 100%;
+    background-color: yellowgreen;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.divMenu{
+    background-color: blueviolet;
+    float:left ;
+    width: 175px;
+    height: 500px;
+}

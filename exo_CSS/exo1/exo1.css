@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body,html{
+    font-family: Arial;
+}
+
+.divHaut{
+    padding: 22px;
+    background-color: aqua;
+
+}
+
+.divMid{
+    background-color: yellow;
+    height: 200px;
+    padding-top: 410px;
+}
+
+.divBas{
+    padding: 22px;
+    background-color: yellowgreen;
+}

@@ -1,0 +1,71 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-size: 16px;
+}
+
+div{
+    background-color:yellow ;
+    float: left;
+}
+
+#divHaut{
+    width: 100%;
+    background-color: aqua;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+#divCorps{
+    width: 100%;
+}
+
+.DivLongue{
+    width: 100%;
+}
+
+#divMenuHaut{
+    background-color:cornflowerblue;
+    width: 175px;
+    height: 500px;
+}
+
+div#divText{
+    float: right;
+    width: 15%;
+    height: 75px;
+    padding: 10px;
+    background-color: crimson;
+}
+
+.h1-contenu{
+    text-align: center;
+    padding: 75px;
+}    
+
+h1.centrage{
+    text-align: center;
+    padding-top: 30px;
+}
+
+#divMenuBas{
+    background-color:tomato;;
+    width: 175px;
+    height: 500px;
+}
+
+#divBas{
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: yellowgreen;
+}

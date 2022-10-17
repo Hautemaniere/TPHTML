@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body,html{
+    font-family: Arial;
+}
+div{
+    text-align: center;
+    font-size: 30px;
+}
+.divHaut{
+    width: 100%;
+    background-color: aqua;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.divCorps{
+    float:left;
+    background-color: yellow;
+    width: 100%;
+}
+.divBas{
+    width: 100%;
+    background-color: yellowgreen;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.divMenuHaut{
+    background-color:cornflowerblue;
+    width: 175px;
+    height: 500px;
+}
+.divMenuBas{
+    background-color:tomato;
+    width: 175px;
+    height: 500px;
+}
+.divMid{
+    float: left;
+    width: 100%;
+}
